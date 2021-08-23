@@ -66,7 +66,7 @@
 /* home section styling */
 .home{
     display: flex;
-    background: url("asset/banner3.jpeg") no-repeat center;
+    background: url("banner3.jpeg") no-repeat center;
     background-size: 175vh;
     color: #fff;
     min-height: 820px;

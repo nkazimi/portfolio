@@ -1,3 +1,3 @@
 # portfolio.github.io
 
-### https://github.com/nkazimi/portfolio.github.io
+### https://nkazimi.github.io/portfolio.github.io/
